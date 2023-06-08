@@ -1,8 +1,11 @@
 import React from "react";
+import Navbar from "./Navbar";
 
 function Feed(){
     return(
-        <div>feed</div>
+        <div>
+        <Navbar/>
+        feed</div>
     );
 }
 

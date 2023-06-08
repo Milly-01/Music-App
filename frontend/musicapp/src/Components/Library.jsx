@@ -1,8 +1,11 @@
 import React from "react";
+import Navbar from "./Navbar";
 
 function Library(){
     return(
-        <div>library</div>
+        <div>
+        <Navbar/>
+        library</div>
     );
 }
 

@@ -1,0 +1,30 @@
+.home-container{
+    background: linear-gradient(#CDF2CE, #A4E7A7);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.my-image-bg{
+    width: 100%;
+}
+
+.heading-home{
+    letter-spacing: 2px;
+    text-align: center;
+    font-style: italic;
+}
+
+.h4-question{
+    color: gray;
+    letter-spacing: 2px;
+    margin: 20px 20px;
+}
+
+.music-def{
+    letter-spacing: 2px;
+    margin-left: 20px;
+}
+
+.futuristic{
+    margin-left: 20px;
+}

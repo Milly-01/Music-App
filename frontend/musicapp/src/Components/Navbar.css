@@ -1,0 +1,18 @@
+.nav-color{
+    background: #CDF2CE;
+    /* box-shadow: 1px 1px 2px black; */
+}
+
+.nav-link{
+    letter-spacing: 2px;
+}
+
+.nav-link:hover{
+    color: gray;
+    font-weight: bold;
+}
+
+.navbar-brand{
+    letter-spacing: 2px;
+    font-weight: bold;
+}
